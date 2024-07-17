@@ -1,3 +1,5 @@
+package myProject.testc;
+
 public class GoodsDAO {
     public void insert(){
         System.out.println("insert goods OK");
