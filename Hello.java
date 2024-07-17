@@ -5,5 +5,8 @@ public class Hello {
         GoodsDAO dao = new GoodsDAO();
         dao.insert();
         dao.update();
+
+        DeptDAO dDao = new DeptDAO();
+        dao.insert();
     }
 }
